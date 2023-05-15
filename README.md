@@ -5,7 +5,7 @@ I make Minecraft modpacks for fun, perhaps you might want to enjoy some at my [M
 
 If not, that's fine too.
 
-I'm currently working on a lot of projects, whether it's a server with my friends, building modpacks, learning Java, etc. If you'd like to reach out to me, I'm currently building a personal website that has support for that. As it isn't set up yet, you can't, but perhaps soon?
+I'm currently working on a lot of projects, whether it's a server with my friends, building modpacks, learning Java, etc. If you'd like to reach out to me, put in a comment at my [website](https://unperisheddev.vercel.app)!
 
 Have a nice day! :)
 
