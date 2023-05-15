@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @UnperishedDev.
-- 👀 I’m interested in developing Minecraft mods + modpacks!
-- 🌱 I’m currently learning Java. I have previously learned HTML5, CSS (not JS though because I got bored with web development). In the future, I may continue learning C++.
-- If you'd like to see some modpacks I've made (along with possible future mods), head over to my profile on [Modrinth](https://modrinth.com/user/UnperishedDev).
+Hello there!
+It seems you've wandered onto my GitHub profile. That means my plans for world domination are culminating. (That's a joke by the way. Or is it?)
+
+I make Minecraft modpacks for fun, perhaps you might want to enjoy some at my [Modrinth profile](https://modrinth.com/user/UnperishedDev).
+
+If not, that's fine too.
+
+I'm currently working on a lot of projects, whether it's a server with my friends, building modpacks, learning Java, etc. If you'd like to reach out to me, I'm currently building a personal website that has support for that. As it isn't set up yet, you can't, but perhaps soon?
+
+Have a nice day! :)
+
 
 <!---
 UnperishedDev/UnperishedDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
